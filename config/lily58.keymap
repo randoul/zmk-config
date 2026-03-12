@@ -13,7 +13,7 @@
 #include <dt-bindings/zmk/rgb.h>
 
 
-
+s&led_strip { chain-length = <35>; };
 
 / {
     keymap {
